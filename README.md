@@ -51,6 +51,7 @@ attraverso un varco, per entrare in un altro ambiente, il sensore del varco invi
 monitoraggio i dati sul transito rilevato.
 3. Quando un visitatore esce dal Museo, restituisce il dispositivo elettronico di rilevamento.
 Un visitatore può acquistare un abbonamento.
+
 Gli abbonamenti possono essere semplici o esclusivi.
 Gli abbonamenti possono essere singoli o multipli: in tal caso occorre tenere traccia di tutte le persone
 associate al particolare abbonamento anche se l’acquisto viene effettuato da una sola persona.
