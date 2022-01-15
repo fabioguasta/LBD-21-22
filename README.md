@@ -70,6 +70,7 @@ Un visitatore non abbonato paga una visita singola, scegliendo prima della visit
 Le tariffe sono flessibili e possono variare nel tempo.
 
 Esempi di tariffe:
+
 ● Tariffa bianca (a sale): Il prezzo della visita è calcolato in base al numero di sale visitate (senza
 limiti di tempo): moltiplicando il numero di sale in cui il Visitatore pensa di entrare per un
 fattore moltiplicativo fisso di 3 euro per le collezioni permanenti e di 5 euro a sala per le
