@@ -15,7 +15,7 @@ Uno script SQL attraverso il quale creare le tabelle, caricare i dati e creare i
 Data la dimensione del populate_table l'esecuzione dello script potrebbe richiedere molto tempo, per cui è 
 consigliabile eseguirlo direttamente nella macchina virtuale, se possibile.
 
-##Spec
+<h2>Specifiche</h2>
 Si richiede di progettare e sviluppare Un giorno al Museo, un software di gestione di un sistema
 museale.
 Alcune informazioni sul generico museo (Museo d’ora in poi):
